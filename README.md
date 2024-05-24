@@ -127,5 +127,3 @@ Irei além de marcar o que já dominei, linkar projetos onde cada tópico foi ut
    
    - [ ] Autenticação e autorização básicas
    
-
-Este tópico é essencial para entender como construir e consumir APIs, o que é uma habilidade valiosa para um desenvolvedor .NET. Se tiver alguma dúvida ou precisar de mais informações sobre algum dos tópicos, não hesite em perguntar!
