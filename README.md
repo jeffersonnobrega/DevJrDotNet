@@ -6,6 +6,8 @@ Este repositório foi criado para listar e acompanhar o progresso dos tópicos q
 
 O objetivo é que além de um guia pessoal de estudos, isso sirva também como um guia para quem pretende migrar e se especializar em programação com .NET.
 
+Irei além de marcar o que já dominei, linkar projetos onde cada tópico foi utilizado.
+
 ## Tópicos
 
 1. **Linguagem C#**
